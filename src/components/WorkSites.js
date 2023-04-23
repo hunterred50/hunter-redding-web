@@ -13,7 +13,7 @@ export default function WorkSites() {
         {/* Leadership Live Show site */}
         <h2 style={{marginTop:'8px'}}>Leadership Live Show - Finance Show site</h2>
         <p style={{margin:'8px'}}>I'm proud of this page for its click-to-scroll, collapsable navbar and overall responsive design.</p>
-        <a href='https://leadershipliveshow.com' className='button' target="_blank" rel="noopener noreferrer">Leadership Live site</a>
+        <a href='https://leadership-live-show.vercel.app/' className='button' target="_blank" rel="noopener noreferrer">Leadership Live site</a>
         {/* Steve on TV site */}
         <h2 style={{marginTop:'8px'}}>Steve on TV - Speaker Personality media site</h2>
         <p style={{margin:'8px'}}>This is a site my most recent employer requested that I remake in the style of his old site, hence the older-looking style. I felt accomplished getting the looping scroll image to work in React and to bring a new responsive design to this old site's design.</p>
