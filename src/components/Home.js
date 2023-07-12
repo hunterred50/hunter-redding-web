@@ -18,14 +18,16 @@ export default function Home() {
 
         {/* description */}
         <p style={{marginTop:'7px', fontSize:'15px'}}>
-          A passionate Front End Developer with experience in graphic design who’s been developing digital media content for over 10 years. I’m looking for another company to grow my skill set and challenge me so I can continue to build a portfolio I’m proud of.
+          A passionate Web Developer with experience in graphic design who’s been developing digital media content for over 10 years. I’m looking for another company to grow my skill set and challenge me so I can continue to build a portfolio I’m proud of.
         </p>
       </div>
 
       {/* link list */}
       <div style={{display:'flex', flexFlow:'column', marginTop:'-4px'}}>
         <a href='./work-sites' className='button'>Job-Related sites</a>
-        <a href='./personal-sites' className='button'>Personal sites</a>        
+        <a href='./cms-sites' className='button'>CMS sites</a>
+        <a href='./personal-sites' className='button'>Personal sites</a>
+        <a href='./graphics-illustration' className='button'>Graphic Design/Illustration</a>
       </div>
 
       <a href='https://calendly.com/hunterredding/' target="_blank" rel="noopener noreferrer" style={{textDecoration:'none'}}><div className='calendly'><CalendarLogo className='calendlySVG'/>Schedule a call on my Calendly!</div></a>
